@@ -42,7 +42,7 @@ Quatro abordagens foram treinadas e comparadas em um conjunto de teste estratifi
 
 | Modelo | Accuracy | Precision (Alta) | Recall (Alta) | F1 (Alta) | ROC-AUC |
 |---|---|---|---|---|---|
-| **Random Forest** ⭐ | **0,8777** | **0,5500** | **0,6875** | **0,6111** | **0,9064** |
+| **Random Forest** 𐃯 | **0,8777** | **0,5500** | **0,6875** | **0,6111** | **0,9064** |
 | SVM | 0,8166 | 0,4107 | 0,7188 | 0,5227 | 0,8696 |
 | Regressão Logística | 0,7991 | 0,3793 | 0,6875 | 0,4889 | 0,8504 |
 | Baseline (classe majoritária) | 0,8603 | 0,0000 | 0,0000 | 0,0000 | 0,5000 |
